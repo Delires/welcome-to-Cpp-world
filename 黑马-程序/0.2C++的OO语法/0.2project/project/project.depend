@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1602640359 source:e:\9.c++\0.2debug\project\project\function\swap.cpp
+	"swap.h"
+
+1602640295 e:\9.c++\0.2debug\project\project\function\swap.h
+	"iostream"
+
+1602640381 source:e:\9.c++\0.2debug\project\project\main.cpp
+	"swap.h"
+
+1602640359 source:e:\9.c++\0.3基础学习\黑马-程序\0.2c++的oo语法\0.2project\project\function\swap.cpp
+	"swap.h"
+
+1602640295 e:\9.c++\0.3基础学习\黑马-程序\0.2c++的oo语法\0.2project\project\function\swap.h
+	"iostream"
+
+1603781570 source:e:\9.c++\0.3基础学习\黑马-程序\0.2c++的oo语法\0.2project\project\main.cpp
+	"iostream"
+	"CirPion.h"
+
+1603770738 source:e:\9.c++\0.3基础学习\黑马-程序\0.2c++的oo语法\0.2project\project\class\cirpion.cpp
+	"CirPion.h"
+
+1603770765 e:\9.c++\0.3基础学习\黑马-程序\0.2c++的oo语法\0.2project\project\class\cirpion.h
+	<iostream>
+	"math.h"
+
